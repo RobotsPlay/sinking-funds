@@ -23,7 +23,7 @@ function App() {
                             <Card>
                                 <Card.Content>
                                     <Card.Header>Jack Spending</Card.Header>
-                                    <Header as="h2">$6.69</Header>
+                                    <Header as="h2">$3.70</Header>
                                 </Card.Content>
                             </Card>
                         </Grid.Column>
